@@ -1,5 +1,8 @@
 # Pathfinder on Fire
 
+**世新資管畢業專題**
+**組長：林旻毅**
+
 ![專案封面圖](https://github.com/ahq0120/image/blob/main/Model.png)
 
 ## 功能
