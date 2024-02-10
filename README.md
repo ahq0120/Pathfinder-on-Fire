@@ -34,3 +34,13 @@ Python 版本建議為：`3.6` 以上...
 > 發生火災時，偵測火原位置
 
 ![smoke0](https://github.com/ahq0120/image/blob/main/smoke0.png)
+
+### 計算最短路徑
+
+> Python計算每個房間離出口的最短路徑
+
+![q0](https://github.com/ahq0120/image/blob/main/q0.png)
+
+### 路徑顯示
+
+將每個房間內的人指引至出口
