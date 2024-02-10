@@ -44,3 +44,26 @@ Python 版本建議為：`3.6` 以上...
 ### 路徑顯示
 
 將每個房間內的人指引至出口
+
+### 煙霧偵測
+
+火勢持續蔓延時，紀律偵測火原位置
+
+> 與前一次不同房間發生火災
+
+![smoke](https://github.com/ahq0120/image/blob/main/smoke1.png)
+
+### 重新計算最短路徑
+
+> Python重新計算包含舊火源的最短路徑
+
+![q1](https://github.com/ahq0120/image/blob/main/q1.png)
+
+### 路徑顯示
+
+將每個房間內的人指引至出口
+
+## 專案技術
+
+- Python
+- C++
