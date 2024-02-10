@@ -29,3 +29,8 @@ Python 版本建議為：`3.6` 以上...
 ![Arduinoc](https://github.com/ahq0120/image/blob/main/Arduinoc.png)
 ![Pythonc](https://github.com/ahq0120/image/blob/main/Pythonc.png)
 
+### 煙霧偵測
+
+> 發生火災時，偵測火原位置
+
+![smoke0](https://github.com/ahq0120/image/blob/main/smoke0.png)
